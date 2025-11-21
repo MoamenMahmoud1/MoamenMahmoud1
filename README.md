@@ -24,7 +24,7 @@
 
 ---
 
-[![Soft Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVpMndoYnNkNjYzaWllMzY0Y2hsZHB6bG9xdWlhaHBnY3NlMDdkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YNk9HRcH9zJfi/giphy.gif)
+[![Soft Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl1ZmJ3Z283Nm90Nzhlc2lqYmt1N21iZTNoMnJzeG1weXlqN3UwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGeVGVZB8iCT6/giphy.gif)
 
 ---
 
