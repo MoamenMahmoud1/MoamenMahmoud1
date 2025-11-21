@@ -1,6 +1,6 @@
 # Moamen Mahmoud
 
-*Backend Developer | Python & Django Enthusiast | DevOps Curious*
+*Backend Developer*
 
 ---
 
@@ -10,6 +10,11 @@
 ![Redis](https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Celery](https://img.shields.io/badge/Celery-1E1E1E?style=for-the-badge&logo=python&logoColor=yellow)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1E1E1E?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=336791)
+![SQL](https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1E1E1E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ---
 
