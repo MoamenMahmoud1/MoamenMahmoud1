@@ -1,32 +1,99 @@
-<h1 align="center">Hi 👋, I'm Moamen Soliman</h1>
-<p align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Moamen Mahmoud Profile</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+
+    em {
+      font-size: 1.2em;
+      color: #bbbbbb;
+    }
+
+    .skills {
+      margin: 30px 0;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .skill {
+      background-color: #1e1e1e;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 12px;
+      font-weight: bold;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .skill:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 5px 15px rgba(255,255,255,0.2);
+    }
+
+    .socials {
+      margin-top: 30px;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    .socials a {
+      display: inline-block;
+      color: #e0e0e0;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+
+    .socials a:hover {
+      color: #1da1f2;
+    }
+
+    .animation {
+      margin-top: 40px;
+    }
+
+    .animation img {
+      width: 180px;
+      border-radius: 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Moamen Mahmoud</h1>
   <em>Backend Developer | Python & Django Enthusiast | DevOps Curious</em>
-</p>
 
-<p align="center">
-  <!-- Soft animated badges for skills -->
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" alt="Django" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis" alt="Redis" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
-</p>
+  <div class="skills">
+    <div class="skill">Python</div>
+    <div class="skill">Django</div>
+    <div class="skill">Redis</div>
+    <div class="skill">Git</div>
+    <div class="skill">Docker</div>
+  </div>
 
-<p align="center">
-  <!-- Subtle animated GIF for soft motion -->
-  <img src="https://media.giphy.com/media/26xBJuZ34sb1n6iGk/giphy.gif" width="180" alt="soft animation"/>
-</p>
+  <div class="animation">
+    <img src="https://media.giphy.com/media/26xBJuZ34sb1n6iGk/giphy.gif" alt="soft animation">
+  </div>
 
-<p align="center">
-  <!-- Social links -->
-  <a href="https://www.linkedin.com/in/moamen-mahmoud-a813b72b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/el_joe_404/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+  <div class="socials">
+    <a href="https://www.linkedin.com/in/moamen-mahmoud-a813b72b9/" target="_blank">LinkedIn</a>
+    <a href="https://www.instagram.com/el_joe_404/" target="_blank">Instagram</a>
+  </div>
 
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
-</p>
+</body>
+</html>
