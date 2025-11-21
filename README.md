@@ -18,7 +18,7 @@
 
 ---
 
-## Connect with me
+## Contact with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/moamen-mahmoud-a813b72b9/)
 [![Instagram](https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/el_joe_404/)
 
