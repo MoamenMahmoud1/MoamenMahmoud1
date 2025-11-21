@@ -1,99 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Moamen Mahmoud Profile</title>
-  <style>
-    body {
-      background-color: #121212;
-      color: #e0e0e0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      text-align: center;
-      padding: 50px;
-    }
+# Moamen Mahmoud
 
-    h1 {
-      font-size: 2.5em;
-      margin-bottom: 10px;
-    }
+*Backend Developer | Python & Django Enthusiast | DevOps Curious*
 
-    em {
-      font-size: 1.2em;
-      color: #bbbbbb;
-    }
+---
 
-    .skills {
-      margin: 30px 0;
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 15px;
-    }
+## Skills
+![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-1E1E1E?style=for-the-badge&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-    .skill {
-      background-color: #1e1e1e;
-      color: #fff;
-      padding: 10px 20px;
-      border-radius: 12px;
-      font-weight: bold;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
+---
 
-    .skill:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 5px 15px rgba(255,255,255,0.2);
-    }
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/moamen-mahmoud-a813b72b9/)
+[![Instagram](https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/el_joe_404/)
 
-    .socials {
-      margin-top: 30px;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-    }
+---
 
-    .socials a {
-      display: inline-block;
-      color: #e0e0e0;
-      text-decoration: none;
-      font-weight: bold;
-      transition: color 0.3s ease;
-    }
+![Soft Animation](https://media.giphy.com/media/26xBJuZ34sb1n6iGk/giphy.gif)
 
-    .socials a:hover {
-      color: #1da1f2;
-    }
+---
 
-    .animation {
-      margin-top: 40px;
-    }
-
-    .animation img {
-      width: 180px;
-      border-radius: 12px;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>Moamen Mahmoud</h1>
-  <em>Backend Developer | Python & Django Enthusiast | DevOps Curious</em>
-
-  <div class="skills">
-    <div class="skill">Python</div>
-    <div class="skill">Django</div>
-    <div class="skill">Redis</div>
-    <div class="skill">Git</div>
-    <div class="skill">Docker</div>
-  </div>
-
-  <div class="animation">
-    <img src="https://media.giphy.com/media/26xBJuZ34sb1n6iGk/giphy.gif" alt="soft animation">
-  </div>
-
-  <div class="socials">
-    <a href="https://www.linkedin.com/in/moamen-mahmoud-a813b72b9/" target="_blank">LinkedIn</a>
-    <a href="https://www.instagram.com/el_joe_404/" target="_blank">Instagram</a>
-  </div>
-
-</body>
-</html>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
