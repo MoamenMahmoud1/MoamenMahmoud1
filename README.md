@@ -18,6 +18,13 @@
 
 ---
 
+## Projects
+
+- [ERP API & Sales ERP](projects/erp-api/README.md) — public overview of the private Django, React and Flutter project
+- [Social Web](https://github.com/MoamenMahmoud1/social_web) — image bookmarking, Redis ranking and secure image handling
+- [MyShop](https://github.com/MoamenMahmoud1/Shop_project) — Django store, order management and Stripe checkout
+- [Django Blog](https://github.com/MoamenMahmoud1/Blog) — publishing, PostgreSQL search and caching
+
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/moamen-mahmoud-joe/)
 [![Phone](https://img.shields.io/badge/Phone-%2B201127393863-1E1E1E?style=for-the-badge)](tel:+201127393863)
